@@ -97,7 +97,7 @@ section.about p {
 
 .project {
   display: block;
-  width: 100px;
+  width: 100%;
   background: red;
   margin-bottom: 20px;
   height: 200px;
